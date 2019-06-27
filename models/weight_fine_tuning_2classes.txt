@@ -1,0 +1,2 @@
+jupyter notebookのコード実行によってweight_fine_tuning_2classes.hdf5を出力します。
+ファイルサイズは100MBを超えるのでzipにして置いてあります。
